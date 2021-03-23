@@ -5,12 +5,12 @@ on:
     types: [started]
     
 env:
-  ROM_URL: Link ROM
-  ROM_NAME: Generic
+  ROM_URL: http://download819.mediafire.com/6w90pzboekkg/50zdmx7g2uow88o/OOS_Dragon_v4.2_by_Speedo_Android10.zip
+  ROM_NAME: OxygenOS
   BUILD_AB: true
   BUILD_Aonly: false
   ROM_AONLY: ROM_A.7z
-  ROM_AB: ROM_AB.7z
+  ROM_AB: ROMtest_AB.7z
 
 jobs:
   build:
