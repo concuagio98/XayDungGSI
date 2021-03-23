@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: Link ROM
+  ROM_URL: http://download819.mediafire.com/6w90pzboekkg/50zdmx7g2uow88o/OOS_Dragon_v4.2_by_Speedo_Android10.zip
   ROM_NAME: Generic
   BUILD_AB: true
   BUILD_Aonly: false
